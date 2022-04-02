@@ -120,7 +120,7 @@ header{
 .section3-2 p{
     line-height: 3;
 }
-.section3-2 button{
+.section3-2 a button{
     width: 30%;
     height: 40px;
     background-color: #FFC500;
